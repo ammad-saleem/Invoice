@@ -1,0 +1,1 @@
+SpringApplication.run(InvoiceApplication.class, args);

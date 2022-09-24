@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\mechaels",
+    "\\src\\main\\java\\com\\mechaels\\invoice",
+    "\\src\\main\\java\\com\\mechaels\\invoice\\modal",
+    "\\src\\main\\resources",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\com",
+    "\\src\\test\\java\\com\\mechaels",
+    "\\src\\test\\java\\com\\mechaels\\invoice"
+  ],
+  "PreviewInSolutionExplorer": false
+}

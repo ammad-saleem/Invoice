@@ -1,0 +1,73 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.execute_container {
+  justify-content: space-between;
+}
+.input_execute {
+  max-width: 48%;
+  flex: 0 0 48%;
+}
+label {
+  margin: 0 15px 0 0;
+  font-size: 18px;
+  font-weight: 500;
+}
+.inputGroup {
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+  justify-content: space-between;
+}
+input:focus {
+  outline: none;
+}
+input, select {
+  padding: 8px 15px;
+  border: 1px solid #e8e8e8;
+  border-radius: 5px;
+  width: 100%;
+  margin: 10px 0;
+}
+.page-title {
+  text-align: center;
+  margin-top: 30px;
+}
+.drug_detail {
+  margin-top: 30px;
+}
